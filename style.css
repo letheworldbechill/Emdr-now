@@ -5,7 +5,7 @@
 }
 
 body {
-  background: url('background.jpg') center/cover no-repeat fixed;
+  background: url('background.png') center/cover no-repeat fixed;
   height: 100vh;
   overflow: hidden;
   font-family: system-ui, sans-serif;
